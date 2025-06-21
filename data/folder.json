@@ -1,44 +1,41 @@
 {
-  "Chhath_Puja" : [
-  "songs/Chhath_Puja/Aage%20Bilaya%20piche%20Chatti%20Maiya.mp3",
-  "songs/Chhath_Puja/Arag%20Ke%20Beriya.mp3",
-  "songs/Chhath_Puja/Chhathi%20Maiya%20Aai%20Na%20Duariya.mp3",
-  "songs/Chhath_Puja/I%20Kaanch%20Hi%20Baans%20Ke%20Bahangiya.mp3",
-  "songs/Chhath_Puja/Kelava%20Ke%20Paat%20Par.mp3"
-]
-  ,
-  "HanumanChalisa" : [
-  "songs/HanumanChalisa/Hanuman%20Ji%20Ki%20Aarti.mp3",
-  "songs/HanumanChalisa/Shri%20Hanuman%20Chalisa.mp3",
-  "songs/HanumanChalisa/Shri%20Hanuman%20Chalisa@Karaoke%20Music.mp3",
-  "songs/HanumanChalisa/Shri%20Hanuman%20Stawan.mp3",
-  "songs/HanumanChalisa/Super%20Fast%20Shri%20Hanuman%20Chalisa.mp3"
-]
-,
-"Old_Songs" : [
-  "songs/Old_Songs/Dekeha%20Aik%20Khwab%20To%20Silsila.mp3",
-  "songs/Old_Songs/Kya%20Yahi%20Pyar%20Hai.mp3",
-  "songs/Old_Songs/Saagar%20Kinare.mp3",
-  "songs/Old_Songs/Tujh%20Sang%20Preet%20Lagai.mp3"
-]
-,
-"Om_Namah_Shivay" : [
-  "songs/Om_Namah_Shivay/Great Bhajan.mp3",
-  "songs/Om_Namah_Shivay/Shiv Amritvani.mp3",
-  "songs/Om_Namah_Shivay/Shiv Mahamrityunjaya Mantra.mp3",
-  "songs/Om_Namah_Shivay/Shiva_Tandava_Stotram.mp3"
-],
-"ncs" : [
-  "songs/ncs/Angry_Mood@Dmytro_Demchenko.mp3",
-  "songs/ncs/Back_On_Earth@Brighten.mp3",
-  "songs/ncs/Copyright_Regime@unleashing_Vengeance.mp3",
-  "songs/ncs/Dance_Music_On@moodmode.mp3",
-  "songs/ncs/Dark_Horse@Oleg_Bayev.mp3",
-  "songs/ncs/DRILLING@FIREZUK.mp3",
-  "songs/ncs/Just_Chillin@Andrew_E_Pabon.mp3",
-  "songs/ncs/King_Vitaman.mp3",
-  "songs/ncs/lover@Gjacove.mp3",
-  "songs/ncs/Sepi_Tanpamu@Aldi_indiana_yusuf.mp3",
-  "songs/ncs/The_Goblin's_ShipAndi_Wendt.mp3"
-]
+  "Chhath_Puja": [
+    "songs/Chhath_Puja/Aage%20Bilaya%20piche%20Chatti%20Maiya.mp3",
+    "songs/Chhath_Puja/Arag%20Ke%20Beriya.mp3",
+    "songs/Chhath_Puja/Chhathi%20Maiya%20Aai%20Na%20Duariya.mp3",
+    "songs/Chhath_Puja/I%20Kaanch%20Hi%20Baans%20Ke%20Bahangiya.mp3",
+    "songs/Chhath_Puja/Kelava%20Ke%20Paat%20Par.mp3"
+  ],
+  "HanumanChalisa": [
+    "songs/HanumanChalisa/Hanuman%20Ji%20Ki%20Aarti.mp3",
+    "songs/HanumanChalisa/Shri%20Hanuman%20Chalisa.mp3",
+    "songs/HanumanChalisa/Shri%20Hanuman%20Chalisa@Karaoke%20Music.mp3",
+    "songs/HanumanChalisa/Shri%20Hanuman%20Stawan.mp3",
+    "songs/HanumanChalisa/Super%20Fast%20Shri%20Hanuman%20Chalisa.mp3"
+  ],
+  "Old_Songs": [
+    "songs/Old_Songs/Dekeha%20Aik%20Khwab%20To%20Silsila.mp3",
+    "songs/Old_Songs/Kya%20Yahi%20Pyar%20Hai.mp3",
+    "songs/Old_Songs/Saagar%20Kinare.mp3",
+    "songs/Old_Songs/Tujh%20Sang%20Preet%20Lagai.mp3"
+  ],
+  "Om_Namah_Shivay": [
+    "songs/Om_Namah_Shivay/Great%20Bhajan.mp3",
+    "songs/Om_Namah_Shivay/Shiv%20Amritvani.mp3",
+    "songs/Om_Namah_Shivay/Shiv%20Mahamrityunjaya%20Mantra.mp3",
+    "songs/Om_Namah_Shivay/Shiva_Tandava_Stotram.mp3"
+  ],
+  "ncs": [
+    "songs/ncs/Angry_Mood@Dmytro_Demchenko.mp3",
+    "songs/ncs/Back_On_Earth@Brighten.mp3",
+    "songs/ncs/Copyright_Regime@unleashing_Vengeance.mp3",
+    "songs/ncs/Dance_Music_On@moodmode.mp3",
+    "songs/ncs/Dark_Horse@Oleg_Bayev.mp3",
+    "songs/ncs/DRILLING@FIREZUK.mp3",
+    "songs/ncs/Just_Chillin@Andrew_E_Pabon.mp3",
+    "songs/ncs/King_Vitaman.mp3",
+    "songs/ncs/lover@Gjacove.mp3",
+    "songs/ncs/Sepi_Tanpamu@Aldi_indiana_yusuf.mp3",
+    "songs/ncs/The_Goblin's_ShipAndi_Wendt.mp3"
+  ]
 }

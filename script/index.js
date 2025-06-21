@@ -240,11 +240,10 @@ close.addEventListener("click",()=>{
 
 prevBtn.addEventListener("click",()=>{
 
-  console.log(currentSong.src);
-  
   let src  = currentSong.src;
-  src = src.split("Spotify-Clone")[1];
-  src = src.substring(1,src.length);
+  src = src.split("songs")[1];
+  src = "songs" + src;
+
 
   for(let i=0 ; i<songs.length ; i++){
     if(songs[i] == src){
@@ -259,11 +258,9 @@ prevBtn.addEventListener("click",()=>{
 
 nextBtn.addEventListener("click",()=>{
 
-  console.log(currentSong.src);
-
   let src  = currentSong.src;
-  src = src.split("Spotify-Clone")[1];
-  src = src.substring(1,src.length);
+  src = src.split("songs")[1];
+  src = "songs" + src;
 
   for(let i=0 ; i<songs.length ; i++){
     if(songs[i] == src){
