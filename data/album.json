@@ -1,6 +1,5 @@
 [
   {
-    "id" : 1,
     "title": "Free Songs",
     "description": "Non - Copyright Songs for you",
     "img":"ncs.jpg",
@@ -8,14 +7,12 @@
     
   },
   {
-    "id" : 2,
     "title": "Hanuman Chalisa",
     "description": "Hanuman ji arti and chalisa",
     "img":"hanuman.jpg",
     "folder":"HanumanChalisa"
   },
   {
-    "id" : 3,
     "title": "Old Songs",
     "description": "Old Bollywood musics",
     "img":"old.jpg",
@@ -23,14 +20,12 @@
     
   },
   {
-    "id" : 4,
     "title": "Om Namah Shivay",
     "description": "Lord Shiva tandav and songs",
     "img":"shiva.jpg",
     "folder":"Om_Namah_Shivay"
   },
   {
-    "id" : 5,
     "title": "Chhath Puja",
     "description": "Chhath Puja bhajans",
     "img":"chhath.jpg",

@@ -1,25 +1,11 @@
 
 // load Songs
 async function loadSongs(folder){
-  let response = await fetch(`http://127.0.0.1:3000/Spotify-Clone/songs/${folder}`);
+  let response = await fetch(`data/folder.json`);
 
-  let data = await response.text();
-
-  let div = document.createElement("div");
-  div.innerHTML = data;
-
-
-  let songs = div.querySelectorAll("a");
-
-
-  let songsArr = [];
-  songs.forEach((s)=>{
-    let url = s.href;
-    
-    if(url.endsWith(".mp3")) songsArr.push(url);
-  });
+  let data = await response.json();
   
-  return songsArr;
+  return data[folder];
 }
 
 let getDetail = (song)=>{
