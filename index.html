@@ -20,6 +20,7 @@
           <div class="logo">
             <img class="invert" src="images/logo.svg" alt="logo" />
             <div>Spotify</div>
+            <span class="material-symbols-outlined close">close</span>
           </div>
 
           <ul>
@@ -67,8 +68,8 @@
         <div class="header flex rounded">
           <div class="nav">
             <span class="menu material-symbols-outlined">menu</span>
-            <span class="material-symbols-outlined"> arrow_back_ios </span>
-            <span class="material-symbols-outlined"> arrow_forward_ios </span>
+            <span class="material-symbols-outlined shrink"> arrow_back_ios </span>
+            <span class="material-symbols-outlined shrink"> arrow_forward_ios </span>
           </div>
 
           <div class="buttons">
@@ -81,18 +82,7 @@
           <h1>Spotify Playlists</h1>
 
           <div class="card-container">
-            <div class="card">
-              <div class="play">
-                <img src="images/play.svg" alt="play" />
-              </div>
-
-              <img
-                src="https://i.scdn.co/image/ab67706f00000002a46ea55285180036c5e8f196"
-                alt="music"
-              />
-              <h2>Happy Hits!</h2>
-              <p>Hits to boost your mood and fill you with...</p>
-            </div>
+            
           </div>
 
           <div class="play-bar">
@@ -108,7 +98,13 @@
               <img id="next" src="images/next.svg" alt="next" />
             </div>
 
-            <div class="song-time"></div>
+            <div class="vol-time">
+              <div class="song-time"></div>
+              <div class="vol">
+                <span class="material-symbols-outlined">volume_up</span>
+                <input type="range" name="volume" id="volume">
+              </div>
+            </div>
           </div>
         </div>
       </div>
