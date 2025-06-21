@@ -239,6 +239,8 @@ close.addEventListener("click",()=>{
 // add event listener to prev and next
 
 prevBtn.addEventListener("click",()=>{
+
+  console.log(currentSong.src);
   
   let src  = currentSong.src;
   src = src.split("Spotify-Clone")[1];
@@ -256,6 +258,9 @@ prevBtn.addEventListener("click",()=>{
 })
 
 nextBtn.addEventListener("click",()=>{
+
+  console.log(currentSong.src);
+
   let src  = currentSong.src;
   src = src.split("Spotify-Clone")[1];
   src = src.substring(1,src.length);
